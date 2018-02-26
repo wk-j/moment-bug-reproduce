@@ -12,3 +12,11 @@ npm start
 ```
 TypeError: moment is not a function [Learn More]
 ```
+
+## Fixed
+
+```json
+{
+    "esModuleInterop": true
+}
+```
