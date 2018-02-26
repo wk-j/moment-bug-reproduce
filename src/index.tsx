@@ -1,6 +1,8 @@
 import * as React from "react"
 import * as ReactDOM from "react-dom"
-import * as moment from "moment"
+//import * as moment from "moment"
+
+const moment = require("moment").default
 
 var m = moment(new Date())
 
