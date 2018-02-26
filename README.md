@@ -1,7 +1,7 @@
 ## Parcel + Moment
 
 - TypeScript 2.8.0
-- Parcel 
+- Parcel 1.5.1
 - React 16.0.38
 - Moment 2.20.1
 
